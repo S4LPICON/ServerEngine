@@ -1,0 +1,14 @@
+{
+  "name": "server-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "java -Xms2G -Xmx4G -XX:+UseG1GC -jar paper-1.21.4-227.jar --nogui"
+  },
+  "author": "S4LPICON",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "asdasd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "mvn install -f \"d:\\Zofrenic-Labs\\Minecraft-Development\\Plugins\\Server-Engine\\pom.xml\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

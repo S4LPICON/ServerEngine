@@ -1,0 +1,15 @@
+name: "ServerEngine"
+version: "1.0-SNAPSHOT"
+main: com.zofrenic.serverengine.ServerEngine
+api-version: "1.21"
+prefix: [Server Engine]
+depend: [ProtocolLib]
+authors: [S4LPICON]
+description: A Minecraft Server Engine!
+
+commands:
+  serverengine:
+    description: Comando de administración de ServerEngine
+    usage: /<command> camera <start|stop> <player>
+    aliases: [se]
+    permission: serverengine.command
